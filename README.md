@@ -1,2 +1,1 @@
-# ddos-machine-hosting
-#Linux
+Coder : Seyit Mehmet Kiren
